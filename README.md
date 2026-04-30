@@ -10,7 +10,7 @@ A collection of interactive games and logic-based projects developed while maste
 *   **Number Guesser:** A game focused on binary search logic and user input handling.
 *   **Simple Quiz:** A game designed to teach algorithms.
 *   **An RGB Spinner:** It's designed for pure fun.
-*   **Card Game:** Have fun with it!
+*   **War Card Game:** From the book "The Self-Taught Programmer" by Cory Althof.
 *   **Egg Catcher:** A classic boredom killer.
 *   **Virtual Pet:** For people who don't have a real pet(I get you).
 
