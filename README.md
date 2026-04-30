@@ -8,6 +8,11 @@ A collection of interactive games and logic-based projects developed while maste
 *   **Ping Pong:** A classic 2-player arcade game. (Requires `pygame`)
 *   **Hangman:** A word-guessing game with custom logic.
 *   **Number Guesser:** A game focused on binary search logic and user input handling.
+*   **Simple Quiz:** A game designed to teach algorithms.
+*   **An RGB Spinner:** It's designed for pure fun.
+*   **Card Game:** Have fun with it!
+*   **Egg Catcher:** A classic boredom killer.
+*   **Virtual Pet:** For people who don't have a real pet(I get you).
 
 ## 🛠️ Concepts Applied
 - **Logic Flow:** Nested loops, conditionals, and error handling.
