@@ -105,4 +105,4 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 - **GitHub**: [@dhrruvanand-del](https://github.com/dhrruvanand-del)
 ---
 
-**Developed with ❤️ by [Dhrruv Anand]**
+**Developed with ❤️ by Dhrruv Anand(Zioles).**
