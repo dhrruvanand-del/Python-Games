@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **dhrruvanand@gmail.com or https://github.com/dhrruvanand-del**
 
-- ⚡ Fun fact **I'm 16 years old**
+- ⚡ Fun fact **This repo was built by a Class 11 PCM student who loves physics and coding—just like you! 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
